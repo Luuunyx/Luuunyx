@@ -18,7 +18,7 @@ class Lunyx
 ```python
 socials = {
     "discord": "s3lfb0t",
-    "server": "discord.gg/bapfr",
+    "server": "discord.gg/xlagfr",
 }
 ```
 
