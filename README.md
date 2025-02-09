@@ -15,20 +15,21 @@ class Lunyx
 
 ```
 ## 🕸️ Socials & Links
-```python
-socials = {
-    "discord": "s3lfb0t",
-    "server": "discord.gg/xlagfr",
+```csharp
+static void socials
+{
+    server = "discord.gg/RXKmVEkU3a",
 }
 ```
 
 ## 🕸️ Tech Stack
 
-```python
-tech_stack = {
-    "languages": ["Python"],
-    "frameworks": ["discord.py", "Node.js"],
-    "tools": ["Git", "VS Code"],
-    "platforms": ["Windows", "Linux"]
+```csharp
+static void tech_stack
+{
+    languages= ["Python,C#,javascript"],
+    frameworks = ["discord.py", "Node.js", s"sqlite],
+    tools = ["Git", "VS Code"],
+    platforms = ["Windows", "Linux"]
 }
 ```
