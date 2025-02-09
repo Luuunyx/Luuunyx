@@ -27,7 +27,7 @@ static void socials
 ```csharp
 static void tech_stack
 {
-    languages= ["Python,C#,javascript"],
+    languages = ["Python,C#,javascript"],
     frameworks = ["discord.py", "Node.js", s"sqlite],
     tools = ["Git", "VS Code"],
     platforms = ["Windows", "Linux"]
