@@ -28,7 +28,7 @@ static void socials
 static void tech_stack
 {
     languages = ["Python,C#,javascript"],
-    frameworks = ["discord.py", "Node.js", s"sqlite],
+    frameworks = ["discord.py", "Node.js", "sqlite"],
     tools = ["Git", "VS Code"],
     platforms = ["Windows", "Linux"]
 }
